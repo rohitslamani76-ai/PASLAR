@@ -1,0 +1,1 @@
+Proactive AI companion for a safer independent living.
